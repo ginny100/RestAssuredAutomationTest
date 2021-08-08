@@ -1,0 +1,197 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "user is logged in",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 880000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on the login pge",
+            "match": {
+              "location": "StepsForBackground.BackgroundDemoSteps.user_is_on_the_login_pge()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 329000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user enters username and password",
+            "match": {
+              "location": "StepsForBackground.BackgroundDemoSteps.user_enters_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 411000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user clicks on the loggin button",
+            "match": {
+              "location": "StepsForBackground.BackgroundDemoSteps.user_clicks_on_the_loggin_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 409000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user is navigated to the homepage",
+            "match": {
+              "location": "StepsForBackground.BackgroundDemoSteps.user_is_navigated_to_the_homepage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-08-07T04:58:58.216Z",
+        "line": 9,
+        "name": "check logout link",
+        "description": "",
+        "id": "check-home-page-functionality;check-logout-link",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 298000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user clicks on the welcome link",
+            "match": {
+              "location": "StepsForBackground.BackgroundDemoSteps.user_clicks_on_the_welcome_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 222000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "the logout link is displayed",
+            "match": {
+              "location": "StepsForBackground.BackgroundDemoSteps.the_logout_link_is_displayed()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "user is logged in",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 406000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on the login pge",
+            "match": {
+              "location": "StepsForBackground.BackgroundDemoSteps.user_is_on_the_login_pge()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 261000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user enters username and password",
+            "match": {
+              "location": "StepsForBackground.BackgroundDemoSteps.user_enters_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 263000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user clicks on the loggin button",
+            "match": {
+              "location": "StepsForBackground.BackgroundDemoSteps.user_clicks_on_the_loggin_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 262000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user is navigated to the homepage",
+            "match": {
+              "location": "StepsForBackground.BackgroundDemoSteps.user_is_navigated_to_the_homepage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-08-07T04:58:58.240Z",
+        "line": 13,
+        "name": "verify quick launch toolbar is present",
+        "description": "",
+        "id": "check-home-page-functionality;verify-quick-launch-toolbar-is-present",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 306000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user clicks on the dashboard link",
+            "match": {
+              "location": "StepsForBackground.BackgroundDemoSteps.user_clicks_on_the_dashboard_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 241000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "the quick launch toolbar is displayed",
+            "match": {
+              "location": "StepsForBackground.BackgroundDemoSteps.the_quick_launch_toolbar_is_displayed()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Check home page functionality",
+    "description": "",
+    "id": "check-home-page-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/BackgroundDemo/BackgroundDemo.feature",
+    "tags": []
+  }
+]

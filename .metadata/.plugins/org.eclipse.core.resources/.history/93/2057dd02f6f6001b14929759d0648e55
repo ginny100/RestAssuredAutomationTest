@@ -1,0 +1,43 @@
+package StepsForHooks;
+
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
+import io.cucumber.java.en.And;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class HooksDemoSteps 
+{
+	WebDriver driver = null;
+	public void browserSetup()
+	{
+		System.setProperty("webdriver.chrome.driver", "src/test/resources/Drivers/chromedriver.exe");
+		driver = new ChromeDriver();
+		driver.manage().timeouts().pageLoadTimeout(20, TimeUnit);
+	}
+	
+	@Given("^user is on the login page$")
+    public void user_is_on_the_login_page() 
+	{
+        
+    }
+
+    @When("^user enters valid username and password$")
+    public void user_enters_valid_username_and_password() 
+    {
+        
+    }
+
+    @Then("^user is navigated to the home page$")
+    public void user_is_navigated_to_the_home_page()
+    {
+        
+    }
+
+    @And("^user clicks on the login button$")
+    public void user_clicks_on_the_login_button() 
+    {
+        
+    }
+}

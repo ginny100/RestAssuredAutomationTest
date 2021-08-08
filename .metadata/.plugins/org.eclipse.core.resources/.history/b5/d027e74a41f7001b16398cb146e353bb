@@ -1,0 +1,39 @@
+package steps;
+
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
+import io.cucumber.java.en.And;
+
+public class login 
+{
+	@Given("^user is on the login page$")
+    public void user_is_on_the_login_page() throws Throwable {
+        throw new PendingException();
+    }
+
+    @When("^user enters valid username and password$")
+    public void user_enters_valid_username_and_password() throws Throwable {
+        throw new PendingException();
+    }
+
+    @When("^user enters invalid username and password$")
+    public void user_enters_invalid_username_and_password() throws Throwable {
+        throw new PendingException();
+    }
+
+    @Then("^user is navigated to the home page$")
+    public void user_is_navigated_to_the_home_page() throws Throwable {
+        throw new PendingException();
+    }
+
+    @Then("^an error message is displayed \- invalid credentials$")
+    public void an_error_message_is_displayed_invalid_credentials() throws Throwable {
+        throw new PendingException();
+    }
+
+    @And("^user clicks on the login button$")
+    public void user_clicks_on_the_login_button() throws Throwable {
+        throw new PendingException();
+    }
+}

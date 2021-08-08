@@ -1,0 +1,19 @@
+package pages;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+
+public class loginPage 
+{
+	WebDriver driver;
+	
+	By txt_username = By.id("name");
+	By txt_password = By.id("password");
+	By btn_login = By.id("login");
+	
+	public void enterUsername(String username)
+	{
+		driver.findElement(txt_username).sendKeys("Ginny");
+	}
+
+}
