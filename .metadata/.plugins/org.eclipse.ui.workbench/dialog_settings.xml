@@ -24,4 +24,6 @@
 			<item value="project explorer"/>
 		</list>
 	</section>
+	<section name="ImportExportAction">
+	</section>
 </section>

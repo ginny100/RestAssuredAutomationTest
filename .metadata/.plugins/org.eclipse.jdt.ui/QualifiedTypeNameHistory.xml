@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="files.ReUsableMethods"/>
-    <fullyQualifiedTypeName name="org.testng.annotations.DataProvider"/>
-    <fullyQualifiedTypeName name="java.nio.file.Files"/>
-    <fullyQualifiedTypeName name="java.nio.file.Paths"/>
-    <fullyQualifiedTypeName name="io.restassured.matcher.RestAssuredMatchers"/>
-    <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
-    <fullyQualifiedTypeName name="junit.framework.Assert"/>
-    <fullyQualifiedTypeName name="com.sun.xml.bind.v2.schemagen.xmlschema.List"/>
-    <fullyQualifiedTypeName name="complexJson.Courses.WebAutomation"/>
-    <fullyQualifiedTypeName name="complexJson.Courses.MobileAutomation"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ObjectMapper"/>
     <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.DeserializationFeature"/>
@@ -18,14 +8,10 @@
     <fullyQualifiedTypeName name="io.cucumber.java.PendingException"/>
     <fullyQualifiedTypeName name="io.restassured.specification.ResponseSpecification"/>
     <fullyQualifiedTypeName name="io.restassured.builder.ResponseSpecBuilder"/>
-    <fullyQualifiedTypeName name="io.restassured.response.Response"/>
-    <fullyQualifiedTypeName name="io.restassured.path.json.JsonPath"/>
     <fullyQualifiedTypeName name="pojo.AddPlace"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="com.sun.xml.bind.v2.runtime.Location"/>
     <fullyQualifiedTypeName name="pojo.Location"/>
     <fullyQualifiedTypeName name="resources.testDataBuild"/>
-    <fullyQualifiedTypeName name="io.restassured.RestAssured"/>
     <fullyQualifiedTypeName name="io.restassured.specification.RequestSpecification"/>
     <fullyQualifiedTypeName name="io.restassured.builder.RequestSpecBuilder"/>
     <fullyQualifiedTypeName name="io.restassured.http.ContentType"/>
@@ -60,4 +46,18 @@
     <fullyQualifiedTypeName name="io.cucumber.java.en.When"/>
     <fullyQualifiedTypeName name="io.cucumber.java.en.Then"/>
     <fullyQualifiedTypeName name="io.cucumber.java.en.And"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="org.apache.poi.xssf.usermodel.XSSFSheet"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="org.apache.poi.ss.usermodel.Row"/>
+    <fullyQualifiedTypeName name="org.apache.poi.ss.usermodel.Cell"/>
+    <fullyQualifiedTypeName name="org.apache.poi.ss.usermodel.CellType"/>
+    <fullyQualifiedTypeName name="org.apache.poi.ss.util.NumberToTextConverter"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+    <fullyQualifiedTypeName name="io.restassured.RestAssured"/>
+    <fullyQualifiedTypeName name="io.restassured.path.json.JsonPath"/>
+    <fullyQualifiedTypeName name="io.restassured.response.Response"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>

@@ -46,12 +46,14 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="Framework"/>
 			<item value="com.cucumber.demo"/>
 			<item value="CucumberJava"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="ExcelDrive"/>
 			<item value="CucumberBDDCMD"/>
 			<item value="CucumberJava"/>
 		</list>

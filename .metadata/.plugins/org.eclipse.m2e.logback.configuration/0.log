@@ -4658,3 +4658,157 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact classworlds:c
 2021-08-08 11:21:26,449 [Worker-28: Launching Executing test in _Users_khuedangmai_Desktop_Eclipse.app_Contents_MacOS_RestAssuredAutomation_CucumberBDDCMD] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/khuedangmai/Desktop/Eclipse.app/Contents/MacOS/RestAssuredAutomation/CucumberBDDCMD
 2021-08-08 11:21:26,468 [Worker-28: Launching Executing test in _Users_khuedangmai_Desktop_Eclipse.app_Contents_MacOS_RestAssuredAutomation_CucumberBDDCMD] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
 2021-08-08 11:56:19,126 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-08 18:43:22,293 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-08 18:47:02,005 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-08-08 18:47:02,885 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Framework:ExcelDrive:0.0.1-SNAPSHOT @ /Users/khuedangmai/Desktop/Eclipse.app/Contents/MacOS/RestAssuredAutomation/ExcelDrive/pom.xml.
+2021-08-08 18:47:03,709 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ExcelDrive/src/main/java
+2021-08-08 18:47:03,710 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ExcelDrive/src/main/resources
+2021-08-08 18:47:03,711 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ExcelDrive/src/test/java
+2021-08-08 18:47:03,711 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ExcelDrive/src/test/resources
+2021-08-08 18:47:04,095 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2021-08-08 19:33:28,296 [Worker-42: Launching dataDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-08 19:33:28,315 [Worker-42: Launching dataDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-08 19:33:28,318 [Worker-42: Launching dataDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-08 19:33:28,319 [Worker-42: Launching dataDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-08 19:35:41,565 [Worker-41: Launching dataDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-08 19:35:41,573 [Worker-41: Launching dataDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-08 19:35:41,576 [Worker-41: Launching dataDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-08 19:35:41,581 [Worker-41: Launching dataDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-08 19:37:02,259 [Worker-35: Launching dataDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-08 19:37:02,262 [Worker-35: Launching dataDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-08 19:37:02,267 [Worker-35: Launching dataDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-08 19:37:02,268 [Worker-35: Launching dataDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-08 20:26:41,899 [Worker-45: Launching dataDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-08 20:26:42,005 [Worker-45: Launching dataDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-08 20:26:42,007 [Worker-45: Launching dataDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-08 20:26:42,009 [Worker-45: Launching dataDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-08 20:27:00,050 [Worker-49: Launching dataDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-08 20:27:00,052 [Worker-49: Launching dataDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-08 20:27:00,056 [Worker-49: Launching dataDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-08 20:27:00,057 [Worker-49: Launching dataDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-08 20:28:38,048 [Worker-52: Launching dataDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-08 20:28:38,053 [Worker-52: Launching dataDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-08 20:28:38,055 [Worker-52: Launching dataDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-08 20:28:38,057 [Worker-52: Launching dataDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-08 20:30:33,471 [Worker-55: Launching dataDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-08 20:30:33,477 [Worker-55: Launching dataDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-08 20:30:33,478 [Worker-55: Launching dataDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-08 20:30:33,480 [Worker-55: Launching dataDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-08 21:06:04,983 [Worker-62: Launching dataDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-08 21:06:05,024 [Worker-62: Launching dataDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-08 21:06:05,044 [Worker-62: Launching dataDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-08 21:06:05,047 [Worker-62: Launching dataDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-08 21:45:14,480 [Worker-72: Launching testSample] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-08 21:45:14,485 [Worker-72: Launching testSample] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-08 21:45:14,486 [Worker-72: Launching testSample] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-08 21:45:14,487 [Worker-72: Launching testSample] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-08 21:48:10,098 [Worker-75: Launching testSample] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-08 21:48:10,099 [Worker-75: Launching testSample] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-08 21:48:10,101 [Worker-75: Launching testSample] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-08 21:48:10,102 [Worker-75: Launching testSample] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-08 21:50:06,882 [Worker-78: Launching testSample] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-08 21:50:06,884 [Worker-78: Launching testSample] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-08 21:50:06,887 [Worker-78: Launching testSample] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-08 21:50:06,888 [Worker-78: Launching testSample] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-08 21:52:56,677 [Worker-79: Launching testSample] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-08 21:52:56,679 [Worker-79: Launching testSample] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-08 21:52:56,680 [Worker-79: Launching testSample] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-08 21:52:56,680 [Worker-79: Launching testSample] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-08 22:13:35,356 [Worker-90: Launching dataDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-08 22:13:35,368 [Worker-90: Launching dataDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-08 22:13:35,373 [Worker-90: Launching dataDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-08 22:13:35,375 [Worker-90: Launching dataDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 10:22:14,135 [Worker-113: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-08-09 10:22:14,397 [Worker-113: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RestAssuredProject:RestAssuredProject:0.0.1-SNAPSHOT @ /Users/khuedangmai/Desktop/Eclipse.app/Contents/MacOS/RestAssuredAutomation/RestAssuredProject/pom.xml.
+2021-08-09 10:22:15,244 [Worker-113: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RestAssuredProject/src/main/java
+2021-08-09 10:22:15,245 [Worker-113: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RestAssuredProject/src/main/resources
+2021-08-09 10:22:15,245 [Worker-113: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RestAssuredProject/src/test/java
+2021-08-09 10:22:15,246 [Worker-113: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RestAssuredProject/src/test/resources
+2021-08-09 10:22:15,811 [Worker-113: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2021-08-09 11:14:02,009 [Worker-127: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 11:14:02,040 [Worker-127: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 11:14:02,043 [Worker-127: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 11:14:02,044 [Worker-127: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 11:17:49,555 [Worker-131: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 11:17:49,572 [Worker-131: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 11:17:49,573 [Worker-131: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 11:17:49,579 [Worker-131: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 11:20:57,623 [Worker-131: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 11:20:57,632 [Worker-131: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 11:20:57,649 [Worker-131: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 11:20:57,655 [Worker-131: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 11:24:54,838 [Worker-135: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-08-09 11:24:54,956 [Worker-135: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RestAssuredProject:RestAssuredProject:0.0.1-SNAPSHOT @ /Users/khuedangmai/Desktop/Eclipse.app/Contents/MacOS/RestAssuredAutomation/RestAssuredProject/pom.xml.
+2021-08-09 11:24:55,577 [Worker-135: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RestAssuredProject/src/main/java
+2021-08-09 11:24:55,577 [Worker-135: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RestAssuredProject/src/main/resources
+2021-08-09 11:24:55,578 [Worker-135: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RestAssuredProject/src/test/java
+2021-08-09 11:24:55,578 [Worker-135: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RestAssuredProject/src/test/resources
+2021-08-09 11:24:55,918 [Worker-135: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2021-08-09 11:24:59,842 [Worker-134: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 11:24:59,843 [Worker-134: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 11:24:59,845 [Worker-134: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 11:24:59,846 [Worker-134: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 11:26:42,170 [Worker-135: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 11:26:42,173 [Worker-135: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 11:26:42,174 [Worker-135: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 11:26:42,175 [Worker-135: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 11:29:33,952 [Worker-141: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 11:29:33,954 [Worker-141: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 11:29:33,956 [Worker-141: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 11:29:33,957 [Worker-141: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 11:29:50,135 [Worker-143: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 11:29:50,137 [Worker-143: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 11:29:50,138 [Worker-143: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 11:29:50,139 [Worker-143: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 11:33:24,483 [Worker-143: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 11:33:24,497 [Worker-143: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 11:33:24,533 [Worker-143: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 11:33:24,534 [Worker-143: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 11:54:23,278 [Worker-150: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 11:54:23,300 [Worker-150: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 11:54:23,303 [Worker-150: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 11:54:23,305 [Worker-150: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 11:57:42,100 [Worker-149: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 11:57:42,105 [Worker-149: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 11:57:42,106 [Worker-149: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 11:57:42,108 [Worker-149: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 11:58:09,335 [Worker-148: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 11:58:09,338 [Worker-148: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 11:58:09,340 [Worker-148: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 11:58:09,341 [Worker-148: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 11:59:15,831 [Worker-148: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 11:59:15,851 [Worker-148: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 11:59:15,855 [Worker-148: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 11:59:15,856 [Worker-148: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 12:26:01,449 [Worker-155: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 12:26:01,538 [Worker-155: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 12:26:01,540 [Worker-155: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 12:26:01,542 [Worker-155: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 12:28:27,921 [Worker-154: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 12:28:27,957 [Worker-154: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 12:28:27,961 [Worker-154: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 12:28:27,964 [Worker-154: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 12:29:33,194 [Worker-154: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 12:29:33,208 [Worker-154: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 12:29:33,209 [Worker-154: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 12:29:33,210 [Worker-154: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 12:34:09,475 [Worker-168: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 12:34:09,482 [Worker-168: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 12:34:09,497 [Worker-168: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 12:34:09,498 [Worker-168: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 12:34:26,548 [Worker-168: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 12:34:26,550 [Worker-168: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 12:34:26,551 [Worker-168: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 12:34:26,552 [Worker-168: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 12:37:20,732 [Worker-169: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 12:37:20,734 [Worker-169: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 12:37:20,735 [Worker-169: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 12:37:20,736 [Worker-169: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 12:40:28,295 [Worker-167: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 12:40:28,317 [Worker-167: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 12:40:28,322 [Worker-167: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 12:40:28,323 [Worker-167: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 12:45:22,056 [Worker-176: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 12:45:22,065 [Worker-176: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-09 12:45:22,067 [Worker-176: Launching excelDriven] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-09 12:45:22,069 [Worker-176: Launching excelDriven] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

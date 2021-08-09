@@ -6,13 +6,16 @@
 		<item key="wholeword" value="true"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="place"/>
+		<item key="selection" value="jsonAsMap1"/>
 		<list key="findhistory">
+			<item value="jsonAsMap"/>
+			<item value="ReusableMethods"/>
 			<item value="p"/>
 			<item value="p "/>
 			<item value="throw new PendingException();"/>
 		</list>
 		<list key="replacehistory">
+			<item value="jsonAsMap1"/>
 			<item value="place"/>
 			<item value=" "/>
 			<item value=""/>
